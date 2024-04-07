@@ -245,11 +245,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [How to break into data science: Q&amp;A guide](https://pylogix.com/how-to-break-into-data-science-qa-guide/)
+- [A Complete Guide to CSS Logical Properties, with Cheat Sheet — Pylogix](https://pylogix.com/a-complete-guide-to-css-logical-properties-with-cheat-sheet-pylogix/)
 - [How to Reduce Cost with Prompt Compression Techniques — Pylogix](https://pylogix.com/how-to-reduce-cost-with-prompt-compression-techniques-pylogix/)
 - [Product spotlight: Pylogix Develop – Pylogix](https://pylogix.com/product-spotlight-pylogix-develop-pylogix/)
 - [Complete Guide to Asynchronous Requests](https://pylogix.com/complete-guide-to-asynchronous-requests/)
-- [Python, R, Julia &amp; More](https://pylogix.com/python-r-julia-more/)
-- [How to Align Column Rows with CSS Subgrid — Pylogix](https://pylogix.com/how-to-align-column-rows-with-css-subgrid-pylogix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
