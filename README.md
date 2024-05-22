@@ -245,11 +245,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [How to break into data science: Q&amp;A guide](https://pylogix.com/how-to-break-into-data-science-qa-guide/)
-- [A Complete Guide to CSS Logical Properties, with Cheat Sheet — Pylogix](https://pylogix.com/a-complete-guide-to-css-logical-properties-with-cheat-sheet-pylogix/)
-- [How to Reduce Cost with Prompt Compression Techniques — Pylogix](https://pylogix.com/how-to-reduce-cost-with-prompt-compression-techniques-pylogix/)
-- [Product spotlight: Pylogix Develop – Pylogix](https://pylogix.com/product-spotlight-pylogix-develop-pylogix/)
-- [Complete Guide to Asynchronous Requests](https://pylogix.com/complete-guide-to-asynchronous-requests/)
+- [How to become a prompt engineer: Skills &amp; career path guide](https://pylogix.com/how-to-become-a-prompt-engineer-skills-career-path-guide/)
+- [How to Deploy Apache Airflow on Vultr Using Anaconda — Pylogix](https://pylogix.com/how-to-deploy-apache-airflow-on-vultr-using-anaconda-pylogix/)
+- [How a tech consultant boosts her coding skills with Pylogix Learn](https://pylogix.com/how-a-tech-consultant-boosts-her-coding-skills-with-pylogix-learn/)
+- [How Ampere Is Improving Nightly Arm64 Builds — Pylogix](https://pylogix.com/how-ampere-is-improving-nightly-arm64-builds-pylogix/)
+- [How to upskill employees with tech skills of the future](https://pylogix.com/how-to-upskill-employees-with-tech-skills-of-the-future/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
